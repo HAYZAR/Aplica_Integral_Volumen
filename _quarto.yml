@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: "Cálculo del volumen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    math: mathjax
